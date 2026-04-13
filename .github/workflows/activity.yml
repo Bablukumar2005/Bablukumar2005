@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update README with activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: jamesgeorge007/github-activity-readme@v0.1.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 5
