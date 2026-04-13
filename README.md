@@ -1,8 +1,8 @@
 
 <div align="center">
 
-  <!-- Banner -->
-  <img src="assets/banner_cropped.gif" alt="Profile Banner" width="100%" />
+  <!-- Profile Image -->
+  <img src="assets/Bablu.jpeg" width="150" style="border-radius:50%" alt="Bablu Profile" />
 
   <br>
 
@@ -56,6 +56,8 @@
 ---
 
 ## ⚡ About Me
+
+<img src="assets/BabluKumar.png" width="150" align="right" alt="Bablu Kumar" style="border-radius:10px;" />
 
 I'm **Bablu Kumar**, a passionate **Full-Stack Developer (MERN)** and **Machine Learning Enthusiast** who loves building scalable and impactful applications.
 
@@ -178,7 +180,7 @@ I focus on combining **data + development + problem-solving** to create solution
 <div align="center">
   <h3><i>Let’s build something impactful 🚀</i></h3>
 </div>
-=======
+
 ## Hi there 👋
 
 <!--
