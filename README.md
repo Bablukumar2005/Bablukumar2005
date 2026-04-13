@@ -144,7 +144,7 @@ I focus on combining **data + development + problem-solving** to create solution
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="./github-metrics.svg" width="60%" />
+  <img src="./github-metrics.svg" width="100%" />
 </div>
 
 <br>
@@ -168,6 +168,15 @@ I focus on combining **data + development + problem-solving** to create solution
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablukumar2005&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
+<br>
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
 ---
 
 ## 🏅 Coding Profiles & Activity
@@ -179,9 +188,7 @@ I focus on combining **data + development + problem-solving** to create solution
   <a href="https://www.geeksforgeeks.org/profile/bablukumarspg">
     <img src="https://gfgstatscard.vercel.app/bablukumarspg?theme=dark" height="150" alt="GeeksforGeeks" />
   </a>
-  <a href="https://codolio.com/profile/bablukumar">
-    <img src="https://img.shields.io/badge/Codolio-Profile-7C3AED?style=for-the-badge&logoColor=white" height="150" alt="Codolio" />
-  </a>
+  
 </div>
 
 ---
