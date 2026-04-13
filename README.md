@@ -1,10 +1,16 @@
 
 <div align="center">
 
-  <!-- Profile Image -->
-  <img src="assets/Bablu.jpeg" width="150" style="border-radius:50%" alt="Bablu Profile" />
+  <!-- Banner -->
+  <img src="assets/banner_cropped.gif" alt="Profile Banner" width="100%" />
 
   <br>
+
+  <!-- Profile Image -->
+  <img src="assets/Bablu.jpeg" width="150" height="150" style="border-radius:50%; margin-top:-75px; border: 4px solid #0D1117;" alt="Bablu Profile" />
+
+  <!-- Name -->
+  <h1>Bablu Kumar</h1>
 
   <!-- Title / Typing Animation -->
   <a href="https://github.com/Bablukumar2005">
@@ -14,41 +20,43 @@
   <br>
 
   <!-- Tagline -->
-  <h3>
-    <i>"Building real-world applications that solve real problems."</i>
-  </h3>
+  <p><i>"Building real-world applications that solve real problems."</i></p>
 
   <br>
 
   <!-- Social Badges -->
-  <a href="https://github.com/Bablukumar2005">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/BABLUKUMAR1234/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/bablukumarspg">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://codeforces.com/profile/Bablu_kumar12">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://codolio.com/profile/bablukumar">
-    <img src="https://img.shields.io/badge/-Codolio-7C3AED?style=for-the-badge&logoColor=white" alt="Codolio" />
-  </a>
+  <div>
+    <a href="https://github.com/Bablukumar2005">
+      <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/BABLUKUMAR1234/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/profile/bablukumarspg">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+    <a href="https://codeforces.com/profile/Bablu_kumar12">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="https://codolio.com/profile/bablukumar">
+      <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logoColor=white" alt="Codolio" />
+    </a>
+  </div>
 
-  <br><br>
+  <br>
 
   <!-- Stats -->
-  <img src="https://komarev.com/ghpvc/?username=Bablukumar2005&style=for-the-badge&color=0D1117&label=Profile%20Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Bablukumar2005?style=for-the-badge&color=0D1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Bablukumar2005?style=for-the-badge&color=0D1117&logo=github" alt="Stars" />
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Bablukumar2005&style=for-the-badge&color=0D1117&label=Profile%20Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Bablukumar2005?style=for-the-badge&color=0D1117&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Bablukumar2005?style=for-the-badge&color=0D1117&logo=github" alt="Stars" />
+  </div>
 
-  <br><br>
+  <br>
 
   <!-- Resume Button -->
   <a href="https://github.com/Bablukumar2005/Bablukumar2005/blob/main/assets/Mr%20Bablu_Kumar%20Cv%20Specialized.pdf">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-0A66C2?style=for-the-badge&logoColor=white" alt="Download Resume" />
   </a>
 
 </div>
