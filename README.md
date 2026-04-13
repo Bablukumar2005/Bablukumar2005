@@ -161,14 +161,16 @@ I focus on combining **data + development + problem-solving** to create solution
 
 <br>
 
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bablukumar2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablukumar2005&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bablukumar2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bablukumar2005&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <br>
+
+---
 
 ## ⚡ Recent Activity
 
