@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="assets/Bablu.jpeg" alt="Profile Banner" width="100%" style="height:160px; object-fit:cover;" />
+  <img src="assets/Bablu.png" alt="Profile Banner" width="100%" style="height:200px; object-fit:cover;" />
 
   <br><br>
 
@@ -146,15 +146,11 @@ I focus on combining **data + development + problem-solving** to create solution
 
 <br>
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bablukumar2005/Bablukumar2005/main/dist/github-contribution-grid-snake.svg" width="90%" />
+  <img src="https://bablukumar2005.github.io/Bablukumar2005/github-contribution-grid-snake.svg" />
 </div>
-
-<br>
-
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br>
 
@@ -175,6 +171,9 @@ I focus on combining **data + development + problem-solving** to create solution
   </a>
   <a href="https://www.geeksforgeeks.org/profile/bablukumarspg">
     <img src="https://gfgstatscard.vercel.app/bablukumarspg?theme=dark" height="150" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://codolio.com/profile/bablukumar">
+    <img src="https://img.shields.io/badge/Codolio-Profile-7C3AED?style=for-the-badge&logoColor=white" height="150" alt="Codolio" />
   </a>
 </div>
 
