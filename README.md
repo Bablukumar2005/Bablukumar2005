@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="assets/Bablu.jpeg" alt="Profile Banner" width="100%" style="height:120px; object-fit:cover;" />
+  <img src="assets/Bablu.jpeg" alt="Profile Banner" width="100%" style="height:160px; object-fit:cover;" />
 
   <br><br>
 
@@ -18,23 +18,12 @@
 
   <br>
 
-  <!-- Social Badges -->
   <div>
-    <a href="https://github.com/Bablukumar2005">
-      <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://leetcode.com/u/BABLUKUMAR1234/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.geeksforgeeks.org/profile/bablukumarspg">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
-    </a>
-    <a href="https://codeforces.com/profile/Bablu_kumar12">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-    </a>
-    <a href="https://codolio.com/profile/bablukumar">
-      <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logoColor=white" alt="Codolio" />
-    </a>
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logoColor=white" alt="Codolio" />
   </div>
 
   <br>
@@ -152,8 +141,22 @@ I focus on combining **data + development + problem-solving** to create solution
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bablukumar2005/Bablukumar2005/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" width="55%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bablukumar2005/Bablukumar2005/main/dist/github-contribution-grid-snake.svg" width="90%" />
+</div>
+
+<br>
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
 
 <br>
 

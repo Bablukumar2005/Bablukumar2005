@@ -19,6 +19,8 @@ jobs:
           
           # Base Options
           base: header, activity, community, repositories, metadata
+          config_theme: github_dark
+          config_display: large
           config_timezone: Asia/Calcutta
           config_animations: yes
           config_padding: 0, 8 + 4%
