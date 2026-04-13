@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="assets/Bablu.jpeg" alt="Profile Banner" width="100%" style="max-height:300px; object-fit:cover;" />
+  <img src="assets/Bablu.jpeg" alt="Profile Banner" width="100%" style="max-height:150px; object-fit:cover;" />
 
   <br><br>
 
