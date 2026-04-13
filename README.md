@@ -2,15 +2,8 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="assets/banner_cropped.gif" alt="Profile Banner" width="100%" />
+  <img src="assets/Bablu.jpeg" alt="Profile Banner" width="100%" />
 
-  <br>
-
-  <!-- Profile Image -->
-  <img src="assets/Bablu.jpeg" width="150" height="150" style="border-radius:50%; margin-top:-75px; border: 4px solid #0D1117;" alt="Bablu Profile" />
-
-  <!-- Name -->
-  <h1>Bablu Kumar</h1>
 
   <!-- Title / Typing Animation -->
   <a href="https://github.com/Bablukumar2005">
@@ -64,8 +57,6 @@
 ---
 
 ## ⚡ About Me
-
-<img src="assets/BabluKumar.png" width="150" align="right" alt="Bablu Kumar" style="border-radius:10px;" />
 
 I'm **Bablu Kumar**, a passionate **Full-Stack Developer (MERN)** and **Machine Learning Enthusiast** who loves building scalable and impactful applications.
 
