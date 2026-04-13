@@ -175,6 +175,7 @@ I focus on combining **data + development + problem-solving** to create solution
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Bablukumar2005/Bablukumar2005/issues/1) in [Bablukumar2005/Bablukumar2005](https://github.com/Bablukumar2005/Bablukumar2005)
 <!--END_SECTION:activity-->
 
 <br>
