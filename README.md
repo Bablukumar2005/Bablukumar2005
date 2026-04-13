@@ -1,10 +1,12 @@
-
 <div align="center">
 
   <!-- Banner -->
   <img src="assets/Bablu.png" alt="Profile Banner" width="100%" style="height:230px; object-fit:cover;" />
 
   <br><br>
+
+  <!-- Name -->
+  <h1>Bablu Kumar</h1>
 
   <!-- Title / Typing Animation -->
   <a href="https://github.com/Bablukumar2005">
@@ -18,6 +20,7 @@
 
   <br>
 
+  <!-- Social Badges -->
   <div>
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
@@ -81,7 +84,7 @@ I focus on combining **data + development + problem-solving** to create solution
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   
-  <h3>📊 Data Science & Machine Learning</h3>
+  <h3>📊 Machine Learning</h3>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
@@ -89,7 +92,7 @@ I focus on combining **data + development + problem-solving** to create solution
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-1E90FF?style=for-the-badge" alt="Seaborn" />
 
-  <h3>☁️ Tools & Deployment</h3>
+  <h3>☁️ Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -141,7 +144,7 @@ I focus on combining **data + development + problem-solving** to create solution
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="./github-metrics.svg" width="55%" />
+  <img src="./github-metrics.svg" width="60%" />
 </div>
 
 <br>
@@ -149,10 +152,12 @@ I focus on combining **data + development + problem-solving** to create solution
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://bablukumar2005.github.io/Bablukumar2005/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bablukumar2005/Bablukumar2005/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bablukumar2005/Bablukumar2005/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bablukumar2005/Bablukumar2005/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
-<br>
 
 <br>
 
@@ -182,20 +187,3 @@ I focus on combining **data + development + problem-solving** to create solution
 <div align="center">
   <h3><i>Let’s build something impactful 🚀</i></h3>
 </div>
-
-## Hi there 👋
-
-<!--
-**Bablukumar2005/Bablukumar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
