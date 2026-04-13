@@ -185,10 +185,10 @@ I focus on combining **data + development + problem-solving** to create solution
 
 <div align="center">
   <a href="https://leetcode.com/u/BABLUKUMAR1234/">
-    <img src="https://leetcard.jacoblin.cool/BABLUKUMAR1234?theme=dark&font=Outfit&ext=heatmap" height="170" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/BABLUKUMAR1234?theme=dark&font=Outfit&ext=heatmap" height="190" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/bablukumarspg">
-    <img src="https://gfgstatscard.vercel.app/bablukumarspg?theme=dark" height="170" alt="GeeksforGeeks" />
+    <img src="https://gfgstatscard.vercel.app/bablukumarspg?theme=dark" height="190" alt="GeeksforGeeks" />
   </a>
   
 </div>
