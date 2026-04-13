@@ -1,4 +1,4 @@
-name: Update Recent Activity
+name: Update GitHub Activity
 
 on:
   schedule:
@@ -9,12 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
       - name: Update README with activity
-        uses: jamesgeorge007/github-activity-readme@v0.1.5
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 5
