@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- Banner -->
@@ -56,7 +57,7 @@
 
 ## ⚡ About Me
 
-I'm **Bablu Kumar**, a passionate **Full-Stack Developer (MERN)** and **Machine Learning Enthusiast** who loves building scalable and impactful applications. 
+I'm **Bablu Kumar**, a passionate **Full-Stack Developer (MERN)** and **Machine Learning Enthusiast** who loves building scalable and impactful applications.
 
 I focus on combining **data + development + problem-solving** to create solutions that are efficient, user-friendly, and real-world ready.
 
@@ -177,3 +178,20 @@ I focus on combining **data + development + problem-solving** to create solution
 <div align="center">
   <h3><i>Let’s build something impactful 🚀</i></h3>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**Bablukumar2005/Bablukumar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
