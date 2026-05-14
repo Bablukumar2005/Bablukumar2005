@@ -176,7 +176,6 @@ I focus on combining **data + development + problem-solving** to create solution
 
 <!--START_SECTION:activity-->
 - 🌿 Created branch `main` in **[Bablukumar2005/Docker-project](https://github.com/Bablukumar2005/Docker-project)**
-- ❗ Opened issue [#1](https://github.com/Bablukumar2005/Bablukumar2005/issues/1) in **[Bablukumar2005/Bablukumar2005](https://github.com/Bablukumar2005/Bablukumar2005)**
 <!--END_SECTION:activity-->
 
 <br>
