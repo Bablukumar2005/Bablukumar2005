@@ -176,7 +176,6 @@ I focus on combining **data + development + problem-solving** to create solution
 
 <!--START_SECTION:activity-->
 - 🌿 Created branch `main` in **[Bablukumar2005/Aws-deploy-project](https://github.com/Bablukumar2005/Aws-deploy-project)**
-- 🌿 Created branch `main` in **[Bablukumar2005/Docker-project](https://github.com/Bablukumar2005/Docker-project)**
 <!--END_SECTION:activity-->
 
 <br>
