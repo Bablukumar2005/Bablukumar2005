@@ -175,7 +175,7 @@ I focus on combining **data + development + problem-solving** to create solution
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- No recent public activity found.
+- 🌿 Created branch `main` in **[Bablukumar2005/Deep_Leaning_Project-CNN-](https://github.com/Bablukumar2005/Deep_Leaning_Project-CNN-)**
 <!--END_SECTION:activity-->
 
 <br>
