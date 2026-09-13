@@ -176,7 +176,6 @@ I focus on combining **data + development + problem-solving** to create solution
 
 <!--START_SECTION:activity-->
 - 🌿 Created branch `main` in **[Bablukumar2005/Student_Management_System_SpringBoot_Proj](https://github.com/Bablukumar2005/Student_Management_System_SpringBoot_Proj)**
-- 🌿 Created branch `main` in **[Bablukumar2005/Scaler_Project](https://github.com/Bablukumar2005/Scaler_Project)**
 <!--END_SECTION:activity-->
 
 <br>
