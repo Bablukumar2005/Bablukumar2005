@@ -175,7 +175,7 @@ I focus on combining **data + development + problem-solving** to create solution
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🌿 Created branch `main` in **[Bablukumar2005/shuttle-management-system](https://github.com/Bablukumar2005/shuttle-management-system)**
+- No recent public activity found.
 <!--END_SECTION:activity-->
 
 <br>
